@@ -1,2 +1,1 @@
-# Henry-PrepCourse-Github
-Repositorio en linea de todos los modulos del PrepCourse de Henry
+Prueba de como crear un repositorio y clonarlo desde Github a mi computadora
